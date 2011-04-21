@@ -3,6 +3,8 @@
   color: white;
   margin: 30px auto;
   width: 300px;
+  font-weight: bold;
+  text-align: center;
 }
 
 .red {
