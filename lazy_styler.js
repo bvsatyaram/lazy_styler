@@ -73,9 +73,3 @@
   };
   
 })( jQuery );
-
-
-// Invoke the plugin
-$(document).ready(function(){
-  jQuery(".lazyStyle").lazyStyler();
-})
