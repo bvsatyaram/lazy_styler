@@ -34,6 +34,7 @@
       $(styleElement).css({
         '-moz-border-radius': styleParams,
         '-webkit-border-radius': styleParams,
+        '-khtml-border-radius': styleParams,
         'border-radius': styleParams
       });
     }
@@ -43,6 +44,7 @@
       $(styleElement).css({
         '-moz-box-shadow': styleParams,
         '-webkit-box-shadow': styleParams,
+        '-khtml-box-shadow': styleParams,
         'box-shadow': styleParams
       });
     }
